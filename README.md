@@ -1,16 +1,27 @@
-### Hi there 👋
+> Python开发
+>
+> 喜欢撸铁 打云顶...最近新版本 疯狂掉分中...
+>
+> 最近忙着装修 准备结婚
+>
+> 更多的时间是个宅男
 
-<!--
-**huzidabanzhang/huzidabanzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Label:
 
-Here are some ideas to get you started:
+`python`  `全栈`  `php`  `vue`  `程序猿`  `coder`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :pushpin: Project
+
+> **权鉴系统:** https://test.ig132n.cn/
+>
+
+### 💬 End
+
+**欢迎通过以下方式了解我**
+
+> **Blog:** https://huzidabanzhang.github.io/
+>
+> **GitHub:** https://github.com/huzidabanzhang
+>
+
+
